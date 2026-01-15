@@ -36,10 +36,10 @@
 
 ## 🛠 Environments
 * **Reference Paper**: [Unlocking the potential of real-time ICU mortality prediction (2025)](https://doi.org/10.1038/s41746-025-02114-y)
-* **Data**: MIMIC-IV Database (Access Required)
+* **Data**: MIMIC-IV Database (Access Required) https://www.kaggle.com/datasets/hwangsungmin/deeppulse-dataset
 * **Stack**: Python, PyTorch, XGBoost, SHAP, Pandas
-
 ## 🚀 How to Run
 1.  `Cohort_build.ipynb` 실행 (Dataset 생성)
 2.  `MainModel.ipynb` 실행 (논문 기반 모델 학습)
 3.  `Validation_pipeline.ipynb` 실행 (결과 해석 및 시각화)
+
